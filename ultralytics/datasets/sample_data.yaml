@@ -1,0 +1,13 @@
+train: C:/Users/16533/Desktop/毕业论文/ultralytics-main/ultralytics/dataset/labels/train.txt
+val:   C:/Users/16533/Desktop/毕业论文/ultralytics-main/ultralytics/dataset/labels/val.txt
+test:  C:/Users/16533/Desktop/毕业论文/ultralytics-main/ultralytics/dataset/labels/val.txt
+
+# number of classes
+nc: 6
+
+# class names
+names: ['people',"car",'trafficlight','speedlimit','crosswalk','stop']
+
+
+
+

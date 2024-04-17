@@ -1,0 +1,9 @@
+train: C:/Users/cedar/PycharmProjects/ultralytics-main/ultralytics/dataset/labels/train.txt
+val:   C:/Users/cedar/PycharmProjects/ultralytics-main/ultralytics/dataset/labels/val.txt
+test:  C:/Users/cedar/PycharmProjects/ultralytics-main/ultralytics/dataset/labels/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['people']

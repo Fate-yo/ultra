@@ -1,0 +1,9 @@
+train: D:/Python_Project/ultralytics-main/ultralytics/dataset/labels/train.txt
+val:   D:/Python_Project/ultralytics-main/ultralytics/dataset/labels/val.txt
+test:  D:/Python_Project/ultralytics-main/ultralytics/dataset/labels/val.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: ['people',"car"]
